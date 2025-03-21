@@ -24,7 +24,7 @@ const cryptos = [
     change: 2.45,
     marketCap: "4.7T",
     volume: "127.8B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
   },
   {
     name: "Ethereum",
@@ -33,7 +33,7 @@ const cryptos = [
     change: -1.23,
     marketCap: "1.5T",
     volume: "58.3B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/ethereum-eth-logo.png",
   },
   {
     name: "Binance Coin",
@@ -42,7 +42,7 @@ const cryptos = [
     change: 0.87,
     marketCap: "287.6B",
     volume: "12.4B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/bnb-bnb-logo.png",
   },
   {
     name: "Solana",
@@ -51,7 +51,7 @@ const cryptos = [
     change: 5.67,
     marketCap: "187.2B",
     volume: "9.8B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/solana-sol-logo.png",
   },
   {
     name: "Cardano",
@@ -60,7 +60,7 @@ const cryptos = [
     change: -0.45,
     marketCap: "98.7B",
     volume: "4.3B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/cardano-ada-logo.png",
   },
   {
     name: "XRP",
@@ -69,7 +69,7 @@ const cryptos = [
     change: 1.34,
     marketCap: "154.3B",
     volume: "7.6B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/xrp-xrp-logo.png",
   },
   {
     name: "Dogecoin",
@@ -78,7 +78,7 @@ const cryptos = [
     change: 3.21,
     marketCap: "68.5B",
     volume: "3.2B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/dogecoin-doge-logo.png",
   },
   {
     name: "Polkadot",
@@ -87,7 +87,7 @@ const cryptos = [
     change: -0.78,
     marketCap: "32.1B",
     volume: "1.8B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/polkadot-new-dot-logo.png",
   },
   {
     name: "Avalanche",
@@ -96,7 +96,7 @@ const cryptos = [
     change: 4.56,
     marketCap: "28.7B",
     volume: "1.5B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/avalanche-avax-logo.png",
   },
   {
     name: "Chainlink",
@@ -105,7 +105,7 @@ const cryptos = [
     change: 1.23,
     marketCap: "12.3B",
     volume: "0.9B",
-    image: "/placeholder.svg?height=64&width=64",
+    image: "https://cryptologos.cc/logos/chainlink-link-logo.png",
   },
 ]
 
